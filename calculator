@@ -1,0 +1,14 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        double num1 = 8, num2 = 4;
+
+        Console.WriteLine("Addition: " + (num1 + num2));
+        Console.WriteLine("Subtraction: " + (num1 - num2));
+        Console.WriteLine("Multiplication: " + (num1 * num2));
+        Console.WriteLine("Division: " + (num1 / num2));
+    }
+}
